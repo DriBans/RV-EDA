@@ -1,0 +1,11 @@
+Appliances,Number of datasets,Number of days in merged data,Highest Watts,Length of the data,Size of the data
+Washing Machine,6,105,2688,15417752,30835504
+Fridge,4,170,2688,5650000,16950000
+Boiler,3,103,2664,7776002,23328006
+Dehumidifier,2,116,1989,5184001,15552003
+Microwave,2,18,1802,5184002,15552006
+Coffee,3,145,1481,7776003,23328009
+Vacuum,2,66,1099,4692001,14076003
+Laptop,2,257,61,5135993,15407979
+Internet router,2,128,38,5183999,15551997
+Screen,2,191,33,3692001,11076003
